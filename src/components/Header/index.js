@@ -21,7 +21,7 @@ const Header = () => {
           </li>
         </nav>
       </div>
-      <h1 className="px-10 py-5 font-thin max-w-xs text-left text-4xl mt-20 rounded-sm uppercase border border-white">
+      <h1 className="px-10 py-5 font-thin max-w-xs text-left text-xl font-bold md:text-4xl mt-20 rounded-sm uppercase border border-white">
         Impressive experiences that deliver
       </h1>
     </div>

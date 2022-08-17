@@ -8,32 +8,35 @@ const OurCreation = () => {
         </button>
       </div>
       <div className="flex flex-col w-full md:flex-row gap-8 overflow-hidden mt-4">
-        <div className="overflow-hidden group relative">
+        <div className="overflow-hidden max-h-40 md:h-full group relative">
           <img
+            alt="Our Creation"
             src="/images/hero.jpg"
             className="object-contain group-hover:scale-110 transition-transform ease-in-out duration-300"
           />
-         <div className="absolute bottom-0 left-0 w-full h-0  bg-indigo-900 opacity-0 group-hover:h-full group-hover:opacity-10 duration-500" />
+          <div className="absolute bottom-0 left-0 w-full h-0  bg-indigo-900 opacity-0 group-hover:h-full group-hover:opacity-10 duration-500" />
           <h1 className="absolute bottom-2 w-full text-center font-bold group-hover:-translate-y-2 group-hover:text-white ease-in-out transition-all duration-300 group-hover:tracking-widest z-50">
             Text
           </h1>
         </div>{" "}
-        <div className="overflow-hidden group relative">
+        <div className="overflow-hidden max-h-40 md:h-full group relative">
           <img
+            alt="Our Creation"
             src="/images/hero.jpg"
             className="object-contain group-hover:scale-110 transition-transform ease-in-out duration-300"
           />
-         <div className="absolute bottom-0 left-0 w-full h-0  bg-indigo-900 opacity-0 group-hover:h-full group-hover:opacity-10 duration-500" />
+          <div className="absolute bottom-0 left-0 w-full h-0  bg-indigo-900 opacity-0 group-hover:h-full group-hover:opacity-10 duration-500" />
           <h1 className="absolute bottom-2 w-full text-center font-bold group-hover:-translate-y-2 group-hover:text-white ease-in-out transition-all duration-300 group-hover:tracking-widest z-50">
             Text
           </h1>
         </div>{" "}
-        <div className="overflow-hidden group relative">
+        <div className="overflow-hidden max-h-40 md:h-full group relative">
           <img
             src="/images/hero.jpg"
+            alt="Our Creation"
             className="object-contain group-hover:scale-110 transition-transform ease-in-out duration-300"
           />
-         <div className="absolute bottom-0 left-0 w-full h-0  bg-indigo-900 opacity-0 group-hover:h-full group-hover:opacity-10 duration-500" />
+          <div className="absolute bottom-0 left-0 w-full h-0  bg-indigo-900 opacity-0 group-hover:h-full group-hover:opacity-10 duration-500" />
           <h1 className="absolute bottom-2 w-full text-center font-bold group-hover:-translate-y-2 group-hover:text-white ease-in-out transition-all duration-300 group-hover:tracking-widest z-50">
             Text
           </h1>
@@ -41,29 +44,32 @@ const OurCreation = () => {
       </div>
       {/* Container 2 */}
       <div className="flex flex-col mt-10 w-full md:flex-row gap-8 overflow-hidden">
-        <div className="overflow-hidden group relative">
+        <div className="overflow-hidden max-h-40 md:h-full group relative">
           <img
             src="/images/hero.jpg"
+            alt="Our Creation"
             className="object-contain group-hover:scale-110 transition-transform ease-in-out duration-300"
           />
-         <div className="absolute bottom-0 left-0 w-full h-0  bg-indigo-900 opacity-0 group-hover:h-full group-hover:opacity-10 duration-500" />
+          <div className="absolute bottom-0 left-0 w-full h-0  bg-indigo-900 opacity-0 group-hover:h-full group-hover:opacity-10 duration-500" />
           <h1 className="absolute bottom-2 w-full text-center font-bold group-hover:-translate-y-2 group-hover:text-white ease-in-out transition-all duration-300 group-hover:tracking-widest z-50">
             Text
           </h1>
         </div>
-        <div className="overflow-hidden group relative">
+        <div className="overflow-hidden max-h-40 md:h-full group relative">
           <img
             src="/images/hero.jpg"
+            alt="Our Creation"
             className="object-contain group-hover:scale-110 transition-transform ease-in-out duration-300"
           />
-         <div className="absolute bottom-0 left-0 w-full h-0  bg-indigo-900 opacity-0 group-hover:h-full group-hover:opacity-10 duration-500" />
+          <div className="absolute bottom-0 left-0 w-full h-0  bg-indigo-900 opacity-0 group-hover:h-full group-hover:opacity-10 duration-500" />
           <h1 className="absolute bottom-2 w-full text-center font-bold group-hover:-translate-y-2 group-hover:text-white ease-in-out transition-all duration-300 group-hover:tracking-widest z-50">
             Text
           </h1>
         </div>
-        <div className="overflow-hidden group relative rounded-lg">
+        <div className="overflow-hidden max-h-40 md:h-full group relative rounded-lg">
           <img
             src="/images/hero.jpg"
+            alt="Our Creation"
             className="object-contain  group-hover:scale-110 transition-transform ease-in-out duration-300"
           />
           <div className="absolute bottom-0 left-0 w-full h-0  bg-indigo-900 opacity-0 group-hover:h-full group-hover:opacity-10 duration-500" />
